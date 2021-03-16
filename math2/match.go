@@ -249,6 +249,6 @@ func Percent(num, denom int64, decimal int) float64 {
 }
 
 func Test() bool {
-	result := true
+	result := false
 	return result
 }
