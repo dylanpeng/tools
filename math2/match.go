@@ -248,6 +248,6 @@ func Percent(num, denom int64, decimal int) float64 {
 	return RoundFloat(float64(num*100)/float64(denom), decimal)
 }
 
-func Test() bool {
+func Test2() bool {
 	return false
 }
